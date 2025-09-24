@@ -34,3 +34,5 @@ function deleteEvent(e) {
   console.log("a8ygfsi7fgysid")
   e.target.parentElement.remove()
 }
+
+//aiuhflishfuadwliuh
